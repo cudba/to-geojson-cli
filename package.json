@@ -1,0 +1,16 @@
+{
+  "name": "to-geojson-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Curdin Barandun",
+  "license": "MIT",
+  "bin": {
+    "toGeoJson": "./cli.js"
+  },
+  "dependencies": {
+    "@tmcw/togeojson": "^3.0.1",
+    "minimist": "^1.2.0",
+    "prettier": "^1.18.2",
+    "xmldom": "^0.1.27"
+  }
+}
