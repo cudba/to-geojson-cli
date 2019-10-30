@@ -8,9 +8,9 @@ $ npx toGeoJson -i gpx -d <input-directory> -o <output-directory>
 ## Parameters
 
 ```
--i  input type [gpx/klm], default gpx
--d  input directory
--o output directory
+-i  input type [gpx/klm] (default gpx)
+-d  input directory (default cwd)
+-o  output directory (default cwd)
 ```
 
 ## Acknowledgements
