@@ -1,8 +1,18 @@
 {
   "name": "to-geojson-cli",
+  "description": "Script to convert directory with gpx or klm files into geoJson files",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Curdin Barandun",
+  "keywords": [
+    "geoJson",
+    "gpx",
+    "klm"
+  ],
+  "author": {
+    "name": "Curdin Barandun",
+    "email": "cbarandun@gmail.com"
+  },
+  "homepage": "https://github.com/cudba/to-geojson-cli",
+  "repository": "github:cudba/to-geojson-cli",
   "license": "MIT",
   "bin": {
     "toGeoJson": "./cli.js"
