@@ -1,7 +1,7 @@
 {
   "name": "to-geojson-cli",
   "description": "Script to convert directory with gpx or klm files into geoJson files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "geoJson",
     "gpx",
